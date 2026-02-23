@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Hu
 - 👀 I’m interested in Code for Junior
-- 🌱 I’m currently learning C/C++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C/C++ and JavaScript
 - 😄 Pronouns: Creative
 - ⚡ Fun fact: I'm fun :>
 
